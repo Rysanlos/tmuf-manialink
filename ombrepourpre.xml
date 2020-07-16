@@ -3,6 +3,6 @@
  <timeout>0</timeout>
  <type>default</type>
  <frame>
-   <label sizen="41 0" posn="45 -3 2" halign="left" valign="top" manialink="tmtp:///#join=lombrepourpre"></label> 
+   <label sizen="41 0" posn="45 -3 2" halign="center" valign="top" text="Rejoindre serveur L'Ombre Pourpre" manialink="tmtp:///#join=lombrepourpre"></label> 
  </frame>
 </manialink> 
